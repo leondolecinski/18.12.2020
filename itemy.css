@@ -1,0 +1,42 @@
+.zbroja{
+    margin-left: 19%;
+    
+}
+body{
+    background-color: rgb(119, 160, 125);
+}
+.lista{
+    background-color: rgb(177, 231, 204);
+}
+.blok{
+    margin-left: 10%;
+}
+.kilof{
+    height: 200px;
+}
+.kilof1{
+    margin-left: 25%;
+}
+.mc{
+    margin-left: 3%;
+    height: 600px;
+    width: 1420px;
+}
+.tekst{
+    background-color: rgb(177, 231, 204);
+}
+.home{
+    background-color: rgb(12, 143, 51);
+}
+.historia{
+    margin-left: 29%;
+}
+.historia1{
+    margin-left: 11%;
+}
+.opis{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 3%;
+    color: rgb(177, 231, 204);
+}
